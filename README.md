@@ -1,22 +1,12 @@
 ### Hi there 👋
 
 <a href="https://github.com/anvarazizov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anvarazizov&show_icons=true&theme=merko&count_private=true" alt="Anvar's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvarazizov&theme=merko&layout=compact" alt="Anvar's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anvarazizov&show_icons=true&theme=merko&count_private=true" alt="Anvar’s github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvarazizov&theme=merko&layout=compact" alt="Anvar’s github top languages" />
 </a>
-<br/>
 
-<!--
-**anvarazizov/anvarazizov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Metrics](github-metrics.svg)
